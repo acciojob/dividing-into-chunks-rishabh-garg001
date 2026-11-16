@@ -23,7 +23,7 @@ if(sub.length > 0){
   res.push(sub)
 }
 
-console.log(res)
+ return res;
 
 
 };
